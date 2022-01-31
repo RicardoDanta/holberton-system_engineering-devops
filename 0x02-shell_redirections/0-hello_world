@@ -1,6 +1,5 @@
 #!/bin/bash
-ls >Hello_World
-
+printf "Hello_World\n"
 
 
 
