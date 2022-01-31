@@ -1,4 +1,4 @@
 #!/bin/bash
-ls -lt | head -n 10
+ls -lt | head 10
 
 
