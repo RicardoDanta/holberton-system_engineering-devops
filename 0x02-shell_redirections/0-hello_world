@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "$(printf "Hello_World\n")"
+echo "Hello, World"
 
 
