@@ -1,6 +1,5 @@
 #!/bin/bash
-print("Hello_World")
-
-
+echo "Hello_World"
+ls -l > Hello_World
 
 
