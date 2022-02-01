@@ -1,0 +1,2 @@
+#!/bin/bash
+find "path" -mindepth 1 -type f
