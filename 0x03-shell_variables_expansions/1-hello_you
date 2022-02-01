@@ -1,2 +1,2 @@
 #!/bin/bash
-echo whoami "hello julien"
+echo whoami "hello root"
