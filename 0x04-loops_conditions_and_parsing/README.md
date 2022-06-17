@@ -1,1 +1,2 @@
-Loops, conditions and parsing
+#!/usr/bin/env bash
+# Loops, conditions and parsing
